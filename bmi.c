@@ -3,7 +3,7 @@
 int main(void) {
 	float peso, altura, masa;
 	
-	// Repositorio: https://github.com/tu-usuario/tu-repo   <-- reemplazá con el link real
+	// Repo https://github.com/cubaxD/info
 	
 	printf("Ingrese su peso en kg: ");
 	scanf("%f", &peso);
